@@ -52,7 +52,7 @@ int main ()
 			        " einai sta %g eurw",cars[i].montelo,cars[i].etos_kataskeuhs,cars[i].timh);
 			    }
 			    else if((s==1 )&& (i+1==boh8os))
-			    printf("To Montelo %s Den vre8hke,parakalw dokimaste me kapoio allo montelo");
+			    printf("To Montelo %s Den vre8hke,parakalw dokimaste me kapoio allo montelo",cars[i].montelo);
 		    }
 		}
 		if (b==2)
